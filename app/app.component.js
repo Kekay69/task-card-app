@@ -14,8 +14,10 @@ var AppComponent = (function () {
     }
     AppComponent = __decorate([
         core_1.Component({
+            moduleId: module.id,
             selector: 'my-app',
-            template: '<h1>Skeleton Project</h1>'
+            //template: '<h1>Skeleton Project</h1>'
+            templateUrl: 'app.component.html' //external template
         }), 
         __metadata('design:paramtypes', [])
     ], AppComponent);
