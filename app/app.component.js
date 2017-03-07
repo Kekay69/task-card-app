@@ -15,9 +15,10 @@ var AppComponent = (function () {
     AppComponent = __decorate([
         core_1.Component({
             moduleId: module.id,
-            selector: 'my-app',
+            selector: 'app-card',
             //template: '<h1>Skeleton Project</h1>'
-            templateUrl: 'app.component.html' //external template
+            templateUrl: 'app.component.html',
+            styleUrls: ['card.component.css']
         }), 
         __metadata('design:paramtypes', [])
     ], AppComponent);
