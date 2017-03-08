@@ -16,7 +16,7 @@ var CardComponent = (function () {
         core_1.Component({
             moduleId: module.id,
             selector: 'app-card',
-            // template: '<h1>Skeleton Project</h1>'
+            // template: '<h1>Skeleton Project</h1>' --inline
             templateUrl: 'card.component.html',
             styleUrls: ['card.component.css']
         }), 
