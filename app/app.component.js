@@ -18,7 +18,7 @@ var AppComponent = (function () {
             selector: 'my-app',
             //template: '<h1>Skeleton Project</h1>'
             templateUrl: 'app.component.html',
-            styleUrls: ['card.component.css']
+            styleUrls: ['app/card/card.component.css']
         }), 
         __metadata('design:paramtypes', [])
     ], AppComponent);
