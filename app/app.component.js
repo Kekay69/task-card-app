@@ -15,7 +15,7 @@ var AppComponent = (function () {
     AppComponent = __decorate([
         core_1.Component({
             moduleId: module.id,
-            selector: 'app-card',
+            selector: 'my-app',
             //template: '<h1>Skeleton Project</h1>'
             templateUrl: 'app.component.html',
             styleUrls: ['card.component.css']
