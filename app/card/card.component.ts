@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
 
+
+
 @Component({
     moduleId: module.id,
     selector: 'app-card',
@@ -7,4 +9,6 @@ import { Component } from '@angular/core';
    templateUrl: 'card.component.html',
    styleUrls: [ 'card.component.css' ]
 })
-export class CardComponent {  }
+export class CardComponent { 
+
+ }
