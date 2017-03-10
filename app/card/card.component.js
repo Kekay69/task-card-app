@@ -18,7 +18,7 @@ var CardComponent = (function () {
             selector: 'app-card',
             // template: '<h1>Skeleton Project</h1>' --inline
             templateUrl: 'card.component.html',
-            styleUrls: ['card/card.component.css']
+            styleUrls: ['card.component.css']
         }), 
         __metadata('design:paramtypes', [])
     ], CardComponent);
